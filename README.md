@@ -1,2 +1,2 @@
-# Hacker-Rank-Project-Euler
-Solutions
+# Hacker-Rank-Project-Euler-C++
+Solutions in C++
